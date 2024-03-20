@@ -27,7 +27,7 @@ const LoginESignup = () => {
           </div>
           <div className="input">
             <img src={senha_icon} alt="" />
-            <input type="senha" placeholder='Senha' />
+            <input type="password" placeholder='Senha' />
           </div>
         </div>
       </div>
